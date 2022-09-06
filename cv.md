@@ -1,5 +1,7 @@
 # Shushpan Andrii
 
+![Alt-myPhoto](MyPhoto.jpg "MyPhoto")
+
 ## My contact info:
 * **Phone:** +380 73 404 68 04
 * **E-mail:** john.galt.prog@gmail.com
@@ -22,7 +24,8 @@ I’m twenty-nine old. In my past life I worked as a videographer. When I was a 
 ```javascript
 // Multiples of 3 or 5
 
-/* Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in. Additionally, if the number is negative, return 0 (for languages that do have them). */
+/* Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in. 
+Additionally, if the number is negative, return 0 (for languages that do have them). */
 
 function solution(number){
     let sum = 0;
